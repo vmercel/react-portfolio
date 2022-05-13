@@ -1,3 +1,16 @@
+import salon from "./assets/images/salon.jpg";
+import conference from "./assets/images/conference.jpg";
+import education from "./assets/images/education.jpg";
+import finance from "./assets/images/finance.jpg";
+import game from "./assets/images/game.jpg";
+import gps from "./assets/images/gps.jpg";
+import quiz from "./assets/images/quiz.jpg";
+import mercel from "./assets/images/mercel.jpg";
+import movie from "./assets/images/movie.jpg";
+
+
+
+
 const logotext = "MERCEL VUBANGSI";
 const meta = {
     title: "Mercel Vubangsi",
@@ -8,11 +21,13 @@ const introdata = {
     title: "I’m Mercel Vubangsi",
     animated: {
         first: "I love coding",
-        second: "I code cool websites AND write scientific research codes",
+        second: "I code cool websites",
         third: "I develop mobile apps",
+        forth: "I write python/bash scripts for scientific computing"
     },
     description: "I amd a teacher of math, physics and computer science. Computational science research and fullstack development are my passions. New techs are what I am fond of",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    //your_img_url: "https:/ / images.unsplash.com / photo - 1514790193030 - c89d266d5a9d ",
+    your_img_url: "{mercel}",
 };
 
 const dataabout = {
@@ -84,45 +99,50 @@ const services = [{
         description: "I specialise in writting python and bash scripts to automate processes in scientific computing and materials science research. This involves codes for simulating electronic, optical and transport properties of semiconductor nanostructures.",
     },
 ];
-
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Velena beauty salon. Ecommerce website for a beauty palour. Fully responsive, built on the LAMP stack.",
+ 
+const dataportfolio = [
+    {
+        img: movie,
+        desctiption: "Movie finder website developed with react.",
+        link: "https://movie-finder-one.vercel.app",
+    },
+    {
+        img: game,
+        desctiption: "Tick-Tack-Toe game with react.",
+        link: "https://react-game.vercel.app",
+    },
+    {
+        img: salon ,
+        desctiption: "Velena beauty salon. Ecommerce website for a beauty parlour. Fully responsive, built on the LAMP stack.",
         link: "https://velenasalon.com",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: education ,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "https://ubastudent.online",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: conference,
         desctiption: "Conference Managment system with integrated dapp in the ethereum blockchain.",
         link: "https://www.neu-conf.000webhostapp.com",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: quiz,
         desctiption: "Quiz Management website. Easy administer a quiz by uploading questions and class list.",
         link: "http://vmquiz.42web.io",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: gps,
         desctiption: "Find your urrent GPS Location with a single click.",
         link: "http://react-gps.vercel.app",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "Tick-Tack-Toe game with react.",
-        link: "https://react-game.vercel.app",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: finance,
         desctiption: "Track your expenses. A react app to manage expenses.",
         link: "https://react-expense-manager.vercel.app",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: mercel,
         desctiption: "My portfolio developed with react.",
         link: "https://mercel-portfolio.vercel.app",
     },
@@ -131,10 +151,10 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "vubangsi.mercel@uniba.cm",
     YOUR_FONE: "(533)829-4913",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    description: "You are welcome to send me a message here. I look forward to discussing web dev solutions with you. ",
+    YOUR_SERVICE_ID: "service_zdwqryg",
+    YOUR_TEMPLATE_ID: "template_k8r5gur",
+    YOUR_USER_ID: "bUJL0f4A1rQShwG8B",
 };
 
 const socialprofils = {
