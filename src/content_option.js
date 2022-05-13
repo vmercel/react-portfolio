@@ -5,7 +5,7 @@ import finance from "./assets/images/finance.jpg";
 import game from "./assets/images/game.jpg";
 import gps from "./assets/images/gps.jpg";
 import quiz from "./assets/images/quiz.jpg";
-import mercel from "./assets/images/mercel.jpg";
+import mercel from "./assets/images/photomania-b58e0df2b93f2bf9623801abbc007dba.jpg";
 import movie from "./assets/images/movie.jpg";
 
 
