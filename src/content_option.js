@@ -109,7 +109,7 @@ const dataportfolio = [
     {
         img: game,
         desctiption: "Tick-Tack-Toe game with react.",
-        link: "https://react-game.vercel.app",
+        link: "https://react-game-orpin.vercel.app/",
     },
     {
         img: salon ,
