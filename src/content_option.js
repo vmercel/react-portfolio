@@ -11,14 +11,14 @@ import movie from "./assets/images/movie.jpg";
 
 
 
-const logotext = "MERCEL VUBANGSI";
+const logotext = "MERCEL and so whatSI";
 const meta = {
-    title: "Mercel Vubangsi",
-    description: "I’m Mercel Vubangsi, Computational Materials Scientist, Fullstack developper and AI engineering student. I am presently Post-doc fellow and at the International Center for Research in AI and IOT, Near East University, Turkish Republic of Northern Cyprus",
+    title: "Mercel and so whatsi",
+    description: "I’m Mercel and so whatsi, Computational Materials Scientist, Fullstack developper and AI engineering student. I am presently Post-doc fellow and at the International Center for Research in AI and IOT, Near East University, Turkish Republic of Northern Cyprus",
 };
 
 const introdata = {
-    title: "I’m Mercel Vubangsi",
+    title: "I’m Mercel and so whatsi",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -99,9 +99,8 @@ const services = [{
         description: "I specialise in writting python and bash scripts to automate processes in scientific computing and materials science research. This involves codes for simulating electronic, optical and transport properties of semiconductor nanostructures.",
     },
 ];
- 
-const dataportfolio = [
-    {
+
+const dataportfolio = [{
         img: movie,
         desctiption: "Movie finder website developed with react.",
         link: "https://movie-finder-one.vercel.app",
@@ -112,12 +111,12 @@ const dataportfolio = [
         link: "https://react-game-orpin.vercel.app/",
     },
     {
-        img: salon ,
+        img: salon,
         desctiption: "Velena beauty salon. Ecommerce website for a beauty parlour. Fully responsive, built on the LAMP stack.",
         link: "https://velenasalon.com",
     },
     {
-        img: education ,
+        img: education,
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "https://ubastudent.online",
     },
@@ -149,12 +148,12 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "vubangsi.mercel@uniba.cm",
+    YOUR_EMAIL: "and so whatsi.mercel@uniba.cm",
     YOUR_FONE: "(533)829-4913",
     description: "You are welcome to send me a message here. I look forward to discussing web dev solutions with you. ",
-    YOUR_SERVICE_ID: "service_zdwqryg",
-    YOUR_TEMPLATE_ID: "template_k8r5gur",
-    YOUR_USER_ID: "bUJL0f4A1rQShwG8B",
+    YOUR_SERVICE_ID: "service_ikmew66",
+    YOUR_TEMPLATE_ID: "template_wy481ak",
+    YOUR_USER_ID: "FTjUdxsDl-ytf-8Tj",
 };
 
 const socialprofils = {
