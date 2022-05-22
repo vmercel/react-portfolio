@@ -22,7 +22,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop web apps",
         forth: "I write python/bash scripts for scientific computing"
     },
     description: "I amd a teacher of math, physics and computer science. Computational science research and fullstack development are my passions. New techs are what I am fond of",
