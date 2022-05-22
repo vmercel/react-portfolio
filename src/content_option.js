@@ -11,14 +11,14 @@ import movie from "./assets/images/movie.jpg";
 
 
 
-const logotext = "MERCEL and so whatSI";
+const logotext = "MERCEL VUBANGSI";
 const meta = {
-    title: "Mercel and so whatsi",
-    description: "I’m Mercel and so whatsi, Computational Materials Scientist, Fullstack developper and AI engineering student. I am presently Post-doc fellow and at the International Center for Research in AI and IOT, Near East University, Turkish Republic of Northern Cyprus",
+    title: "Mercel Vubangsi",
+    description: "I’m Mercel Vubangsi, Computational Materials Scientist, Fullstack developper and AI engineering student. I am presently Post-doc fellow and at the International Center for Research in AI and IOT, Near East University, Turkish Republic of Northern Cyprus",
 };
 
 const introdata = {
-    title: "I’m Mercel and so whatsi",
+    title: "I’m Mercel Vubangsi",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -148,7 +148,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "and so whatsi.mercel@uniba.cm",
+    YOUR_EMAIL: "vubangsi.mercel@uniba.cm",
     YOUR_FONE: "(533)829-4913",
     description: "You are welcome to send me a message here. I look forward to discussing web dev solutions with you. ",
     YOUR_SERVICE_ID: "service_ikmew66",
